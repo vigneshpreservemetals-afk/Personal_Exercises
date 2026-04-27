@@ -1,0 +1,28 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="120" height="120" fill="#2F333D"></rect>
+
+  <!-- W shape (clean geometric) -->
+  <path d="
+    M22 38 
+    L32 82 
+    L48 52 
+    L64 82 
+    L74 38 
+    L66 38 
+    L58 66 
+    L48 44 
+    L38 66 
+    L30 38 
+    Z" fill="#D9D9D9"></path>
+
+  <!-- Superscript 3 -->
+  <text x="76" y="36" font-size="12" font-weight="600" fill="#D9D9D9" font-family="Segoe UI, Arial, sans-serif">
+    3
+  </text>
+
+  <!-- schools text -->
+  <text x="60" y="98" text-anchor="middle" font-size="13" fill="#D9D9D9" font-family="Segoe UI, Arial, sans-serif">
+    schools
+  </text>
+</svg>
